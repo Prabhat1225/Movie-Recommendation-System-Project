@@ -35,8 +35,6 @@ To deploy this project run
 ![Logo](https://www.oreilly.com/api/v2/epubs/9781788295758/files/assets/2b4a7a82-ad4c-4b2a-b808-e423a334de6f.png)
 
 # Some UI are 
-![Screenshot (705)](https://github.com/Prabhat1225/Movie-Recommendation-System-Project/assets/107301804/cf530cf1-1c9f-4c97-a796-81621edfd9b1)
-
-![Screenshot (706)](https://github.com/Prabhat1225/Movie-Recommendation-System-Project/assets/107301804/4bd2c42c-ed66-41e8-ac87-624f8adf049d)
-
-![Screenshot (707)](https://github.com/Prabhat1225/Movie-Recommendation-System-Project/assets/107301804/a564044a-529a-4e04-9cdd-f2b34f456ce4)
+![Screenshot (705)](https://github.com/Prabhat1225/Movie-Recommendation-System-Project/assets/107301804/3da57e97-542e-484f-9bc5-6e5b6aeb7377)
+![Screenshot (706)](https://github.com/Prabhat1225/Movie-Recommendation-System-Project/assets/107301804/25a7ba27-99c4-4987-9186-d05e772488ba)
+![Screenshot (707)](https://github.com/Prabhat1225/Movie-Recommendation-System-Project/assets/107301804/2e0b5ab0-1f0e-422a-9f29-bbbb0ca4bb26)
